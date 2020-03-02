@@ -1,2 +1,2 @@
-# cw1
-Jakub Gańcza, 17c, s19151
+# Jakub Gańcza s19151
+APBD cw 1
